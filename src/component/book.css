@@ -1,0 +1,7 @@
+#book{
+    border: 5px solid red;
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    padding-top: 10px;
+}
